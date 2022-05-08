@@ -7,7 +7,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>COMMING SOON</title>
-        <meta name="description" content="DEYUS X MEDIA" />
+        <meta name="description" content="DEYUS EX MEDIA" />
         <link rel="icon" href="/dem_favicon.png" />
       </Head>
       <main className={styles.main}>
