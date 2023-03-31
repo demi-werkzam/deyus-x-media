@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
       <h1 className={styles.title}>
-         COMING SOON.
+         COMING SOON...
         </h1>
         <span>
       <Image src="/dem_logo2.svg" alt="Deyus Ex Media Logo" width={800} height={600} />
